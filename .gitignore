@@ -4,6 +4,7 @@
 ### Images ###
 # JPEG
 *.jpg
+*.JPG
 *.jpeg
 *.jpe
 *.jif
